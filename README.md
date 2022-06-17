@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Stats & Technology Stack](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats & Technology Stack](https://github-readme-stats.vercel.app/api?username=jerryjayce)](https://github.com/jerryjayce/github-readme-stats)
 <!--
 **jerryjayce/jerryjayce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
