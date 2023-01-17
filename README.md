@@ -9,7 +9,7 @@
    Hobbies: 🎧 ⚽️ 🎮 🚴 🎱 👨🏾‍💻
 </h3>
 <br/>
- <div align="center"> 
+<!--  <div align="center"> 
     <a href="https://github.com/jerryjayce">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jerryjayce?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/jeremiahezuzu/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-  </div>
+  </div> -->
 <br/>
 <div align="center">
       <a href="https://github.com/jerryjayce">
