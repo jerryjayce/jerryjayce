@@ -3,6 +3,10 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Jeremiah
 </h3>
 
+<h3 align="center">
+  I'm Jeremiah
+</h3>
+
 <h3 align="center"> 
    Hobbies: 🎧 ⚽️ 🎮 🚴 🎱 👨🏾‍💻
 </h3>
