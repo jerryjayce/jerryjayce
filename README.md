@@ -29,7 +29,6 @@
           alt="jerryjayce's github stats" /> -->
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryjayce&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
         
-      </a>
   </div>
 <br/>
 
