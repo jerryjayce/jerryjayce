@@ -25,7 +25,9 @@
 <br/>
 <div align="center">
       <a href="https://github.com/jerryjayce">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerryjayce&show_icons=true&theme=merko&count_private=true" alt="jerryjayce's github stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerryjayce&show_icons=true&theme=merko&count_private=true" 
+          alt="jerryjayce's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuliopime&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryjayce&theme=merko&layout=compact" alt="jerryjayce's github top languages" />
       </a>
   </div>
